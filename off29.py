@@ -1,0 +1,5 @@
+a = float(input('Informe a primeira nota: '))
+b = float(input('Informe a primeira nota: '))
+c = float(input('Informe a primeira nota: '))
+d = float(input('Informe a primeira nota: '))
+print('\nMedia aritmetica: ', (a+b+c+d)/4)
